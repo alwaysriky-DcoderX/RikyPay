@@ -6,7 +6,7 @@ import { FileText } from 'lucide-react'
 
 export const metadata = {
   title: 'Terms of Service - Syarat & Ketentuan',
-  description: 'Syarat dan ketentuan penggunaan layanan PaymentHub',
+  description: 'Syarat dan ketentuan penggunaan layanan RikyPay',
 }
 
 export default function TermsPage() {
@@ -32,12 +32,12 @@ export default function TermsPage() {
               <CardContent className="prose prose-gray max-w-none p-8 dark:prose-invert">
                 <h2>1. Penerimaan Syarat</h2>
                 <p>
-                  Dengan mengakses dan menggunakan layanan PaymentHub, Anda setuju untuk terikat oleh syarat dan ketentuan ini. Jika Anda tidak setuju dengan syarat ini, mohon untuk tidak menggunakan layanan kami.
+                  Dengan mengakses dan menggunakan layanan RikyPay, Anda setuju untuk terikat oleh syarat dan ketentuan ini. Jika Anda tidak setuju dengan syarat ini, mohon untuk tidak menggunakan layanan kami.
                 </p>
 
                 <h2>2. Definisi</h2>
                 <ul>
-                  <li><strong>Layanan:</strong> Platform payment gateway PaymentHub dan semua fitur terkait</li>
+                  <li><strong>Layanan:</strong> Platform payment gateway RikyPay dan semua fitur terkait</li>
                   <li><strong>Pengguna:</strong> Individu atau entitas yang menggunakan layanan kami</li>
                   <li><strong>Merchant:</strong> Pengguna yang menerima pembayaran melalui platform kami</li>
                   <li><strong>Transaksi:</strong> Setiap pembayaran atau transfer yang diproses melalui platform</li>
@@ -138,9 +138,9 @@ export default function TermsPage() {
                 <h2>15. Kontak</h2>
                 <p>Untuk pertanyaan tentang syarat dan ketentuan ini:</p>
                 <ul>
-                  <li>Email: legal@paymenthub.com</li>
-                  <li>WhatsApp: +62 21 1234 5678</li>
-                  <li>Alamat: SCBD Lot 28, Jakarta Selatan 12190</li>
+                  <li>Email: muhammadraskina@gmail.com</li>
+                  <li>Telegram: +62 21 1234 5678</li>
+                  <li>Alamat: SCBD Lot 28, Malaysia 12190</li>
                 </ul>
               </CardContent>
             </Card>
