@@ -12,7 +12,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'PaymentHub - Enterprise Payment Gateway & Donation Platform',
+  title: 'RikyPay - Enterprise Payment Gateway & Donation Platform',
   description:
     'Modern payment gateway supporting QRIS, e-wallets, virtual accounts, and bank transfers. Accept donations and payments with ease.',
   keywords: [
@@ -23,20 +23,20 @@ export const metadata: Metadata = {
     'virtual account',
     'payment indonesia',
   ],
-  authors: [{ name: 'PaymentHub' }],
-  creator: 'PaymentHub',
+  authors: [{ name: 'RikyPay' }],
+  creator: 'Riky Shop',
   openGraph: {
     type: 'website',
     locale: 'id_ID',
     url: 'https://paymenthub.com',
-    title: 'PaymentHub - Enterprise Payment Gateway',
+    title: 'RikyPay - Enterprise Payment Gateway',
     description:
       'Modern payment gateway supporting QRIS, e-wallets, virtual accounts, and bank transfers.',
-    siteName: 'PaymentHub',
+    siteName: 'RikyPay',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'PaymentHub - Enterprise Payment Gateway',
+    title: 'RikyPay - Enterprise Payment Gateway',
     description: 'Modern payment gateway for Indonesia',
   },
 }
