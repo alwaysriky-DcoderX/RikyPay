@@ -22,7 +22,7 @@ export default function AboutPage() {
           <div className="mx-auto max-w-4xl text-center">
             <Image
               src="/images/paymenthub-wordmark.webp"
-              alt="PaymentHub"
+              alt="RikyPay"
               width={280}
               height={70}
               className="mx-auto mb-8"
