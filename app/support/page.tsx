@@ -110,7 +110,7 @@ export default function SupportPage() {
             <div className="mx-auto max-w-4xl text-center">
               <Badge className="mb-4">Kami Siap Membantu</Badge>
               <h1 className="text-balance text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
-                Pusat Bantuan PaymentHub
+                Pusat Bantuan RikyPay
               </h1>
               <p className="mx-auto mt-6 max-w-2xl text-pretty text-lg text-muted-foreground">
                 Tim support profesional kami siap membantu Anda 24/7. Pilih channel yang paling nyaman untuk Anda.
