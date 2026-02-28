@@ -398,7 +398,7 @@ export default function HomePage() {
             <div className="mb-12 text-center">
               <h2 className="text-2xl font-bold">Dipercaya oleh Perusahaan Terkemuka</h2>
               <p className="mt-2 text-muted-foreground">
-                Ribuan bisnis menggunakan PaymentHub untuk payment processing
+                Ribuan bisnis menggunakan RikyPay untuk payment processing
               </p>
             </div>
             <div className="grid grid-cols-2 gap-8 sm:grid-cols-4">
@@ -502,7 +502,7 @@ const testimonials = [
     name: 'Ambatukan',
     role: 'CEO, TechStart Indonesia',
     content:
-      'PaymentHub sangat memudahkan kami dalam menerima pembayaran. Integrasi API-nya mudah dan dokumentasinya lengkap. Highly recommended!',
+      'RikyPay sangat memudahkan kami dalam menerima pembayaran. Integrasi API-nya mudah dan dokumentasinya lengkap. Highly recommended!',
   },
   {
     name: 'Kontokuning',
