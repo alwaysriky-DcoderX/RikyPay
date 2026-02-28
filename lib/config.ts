@@ -34,25 +34,25 @@ export const siteConfig = {
 
   // Owner Information
   owner: {
-    name: 'Jackk',
-    email: 'owner@Jackk.com',
+    name: 'Riky shop',
+    email: 'muhammadraskina@gmail.com',
     phone: '6288286177799',
     whatsapp: '6288286177799',
   },
 
   // Social Media
   social: {
-    telegram: '@KazzahOfficial',
-    github: 'KingJack2109',
+    telegram: '@CS_rikyshopreal',
+    github: 'Kepolu',
     tiktok: 'Cintaaa0809',
-    whatsapp: 'https://wa.me/6288286177799',
-    email: 'mailto:owner@Jack.com',
+    whatsapp: 'https://wa.me/6282312934025',
+    email: 'muhammadraskina@gmail.com',
   },
 
   // External Links
   links: {
-    github: 'https://github.com/KingJack2109',
-    telegram: 'https://t.me/KazzahOfficial',
+    github: 'https://github.com/kepolu',
+    telegram: 'https://t.me/CS_rikyshopreal',
     tiktok: 'https://tiktok.com/@Cintaaa0809',
     whatsapp: 'https://wa.me/6288286177799',
     email: 'mailto:owner@Jackk.com',
@@ -177,7 +177,7 @@ export const siteConfig = {
   },
 
   redis: {
-    prefix: 'paymenthub:',
+    prefix: 'RikyPay:',
     keys: {
       transaction: (id: string) => `paymenthub:transaction:${id}`,
       invoice: (code: string) => `paymenthub:invoice:${code}`,
